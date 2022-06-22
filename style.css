@@ -1,0 +1,25 @@
+body{
+    min-height: 100vh;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.app{
+    background: rgb(87, 145, 164);
+    width: 50%;
+    border-radius: 2rem;
+    text-align: center;
+    padding: 2rem;
+}
+
+ul li{
+    padding: 0.5rem;
+    list-style: none;
+}
+
+.btn{
+    display: none;
+}
